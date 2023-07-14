@@ -4,9 +4,9 @@ I’m now a junior Computer Science student of University of Science and Technol
 
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=himalalps&show_icons=true&count_private=true&hide_border=true" width=50% />
+<img src="https://github-readme-stats.vercel.app/api?username=himalalps&show_icons=true&count_private=true&theme=transparent" width=50% />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalalps&hide_border=true&layout=compact" width=50% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalalps&layout=compact&theme=transparent&hide=javascript" width=50% />
 
 ## Languages and Tools
 
