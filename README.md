@@ -1,6 +1,6 @@
 ## Hey 👋  Glad to see you here!
 
-I’m now a junior Computer Science student of University of Science and Technology of China (USTC). I am glad to explore problems in CS domains as I have a lot to learn.
+I’m now a junior Computer Science student at University of Science and Technology of China (USTC). I am glad to explore problems in CS domains as I have a lot to learn.
 
 ## Github Stats  
 
