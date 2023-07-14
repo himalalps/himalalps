@@ -6,7 +6,7 @@ I’m now a junior Computer Science student of University of Science and Technol
 
 <img src="https://github-readme-stats.vercel.app/api?username=himalalps&show_icons=true&count_private=true&theme=transparent" width=50% />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalalps&layout=compact&theme=transparent&hide=javascript" width=50% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalalps&layout=donut&theme=transparent&hide=javascript" width=50% />
 
 ## Languages and Tools
 
