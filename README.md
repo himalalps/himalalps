@@ -2,19 +2,14 @@
 
 I’m now a junior Computer Science student of University of Science and Technology of China (USTC). I am glad to explore problems in CS domains as I have a lot to learn.
 
-<br/>  
-
-
 ## Github Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=himalalps&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=himalalps&show_icons=true&count_private=true&hide_border=true" width=50% />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalalps&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himalalps&hide_border=true&layout=compact" width=50% />
 
-<br/> 
+## Languages and Tools
 
-
-## Languages and Tools  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -38,7 +33,5 @@ I’m now a junior Computer Science student of University of Science and Technol
 </div>  
 
 <br/>
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=himalalps&&style=flat-square)  
