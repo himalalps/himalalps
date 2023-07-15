@@ -10,6 +10,9 @@ I’m now a junior Computer Science student at University of Science and Technol
 
 <!-- <img src="https://vercel-himalalps.vercel.app/api/wakatime/?username=himalalps&theme=transparent" width=50% /> -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Languages and Tools
 
 <div align="center">  
