@@ -11,6 +11,17 @@ I’m now a junior Computer Science student at University of Science and Technol
 <!-- <img src="https://vercel-himalalps.vercel.app/api/wakatime/?username=himalalps&theme=transparent" width=50% /> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 15/07/2023 13:56:25 UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
