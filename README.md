@@ -11,23 +11,26 @@ I’m now a junior Computer Science student at University of Science and Technol
 <!-- <img src="https://vercel-himalalps.vercel.app/api/wakatime/?username=himalalps&theme=transparent" width=50% /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr                █████████████████████████   100.00 % 
+C++                      1 hr                ██████████████████████░░░   89.15 % 
+Git Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr                █████████████████████████   100.00 % 
+Windows                  1 hr                ██████████████████████░░░   89.15 % 
+WSL                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 ```
 
 
- Last Updated on 16/07/2023 01:18:26 UTC
+ Last Updated on 17/07/2023 01:13:01 UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
