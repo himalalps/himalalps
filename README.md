@@ -2,13 +2,12 @@
 
 I’m now a junior Computer Science student at University of Science and Technology of China (USTC). I am glad to explore problems in CS domains as I have a lot to learn.
 
-## Github Stats  
+## My Stats  
 
-<img src="https://vercel-himalalps.vercel.app/api?username=himalalps&show_icons=true&count_private=true&theme=transparent&rank_icon=github" width=50% />
-
-<img src="https://vercel-himalalps.vercel.app/api/top-langs/?username=himalalps&layout=donut&theme=transparent&hide=javascript" width=50% />
-
-<!-- <img src="https://vercel-himalalps.vercel.app/api/wakatime/?username=himalalps&theme=transparent" width=50% /> -->
+<p align="center">
+ <img src="https://vercel-himalalps.vercel.app/api?username=himalalps&show_icons=true&count_private=true&theme=transparent&rank_icon=github" height=200 />
+ <img src="https://vercel-himalalps.vercel.app/api/top-langs/?username=himalalps&layout=donut&theme=transparent&hide=javascript" height=200 />
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%202%20mins-blue)
