@@ -16,20 +16,17 @@ I’m now a junior Computer Science student at University of Science and Technol
 
 ```text
 💬 Programming Languages: 
-C                        4 mins              ██████████████░░░░░░░░░░░   55.76 % 
-Makefile                 2 mins              █████████░░░░░░░░░░░░░░░░   37.58 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/08/2023 00:55:28 UTC
+ Last Updated on 09/08/2023 00:56:33 UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
