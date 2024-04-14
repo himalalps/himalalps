@@ -10,7 +10,7 @@ I’m now a junior Computer Science student at University of Science and Technol
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-700%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2029%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -30,7 +30,7 @@ WSL                      30 mins             ████░░░░░░░�
 ```
 
 
- Last Updated on 2024-04-13 Sat UTC
+ Last Updated on 2024-04-14 Sun UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
