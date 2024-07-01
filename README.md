@@ -10,25 +10,25 @@ I’m now a junior Computer Science student at University of Science and Technol
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs%2027%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 41 mins       ████████████████████░░░░░   78.92 % 
-Markdown                 1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   4 hrs 20 mins       ██████████████████░░░░░░░   70.88 % 
+Markdown                 1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 29 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024-06-30 Sun UTC
+ Last Updated on 2024-07-01 Mon UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
