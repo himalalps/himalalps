@@ -16,9 +16,7 @@ I’m now a junior Computer Science student at University of Science and Technol
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 4 mins         █████████████████████████   99.87 % 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   1 hr 4 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
@@ -28,7 +26,7 @@ Windows                  1 hr 4 mins         ███████████�
 ```
 
 
- Last Updated on 2024-08-30 Fri UTC
+ Last Updated on 2024-08-31 Sat UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
