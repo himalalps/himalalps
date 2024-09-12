@@ -16,17 +16,18 @@ I’m now a junior Computer Science student at University of Science and Technol
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   7 mins              █████████████████████████   99.81 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024-09-11 Wed UTC
+ Last Updated on 2024-09-12 Thu UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
