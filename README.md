@@ -16,19 +16,17 @@ I'm now a senior Computer Science student at University of Science and Technolog
 
 ```text
 💬 Programming Languages: 
-TeX                      9 mins              ████████████████████████░   97.71 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2024-10-16 Wed UTC
+ Last Updated on 2024-10-17 Thu UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
