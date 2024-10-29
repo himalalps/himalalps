@@ -16,17 +16,21 @@ I'm now a senior Computer Science student at University of Science and Technolog
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 3 mins        ██████████████████████░░░   86.67 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2024-10-28 Mon UTC
+ Last Updated on 2024-10-29 Tue UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
