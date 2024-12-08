@@ -10,7 +10,7 @@ I'm now a senior Computer Science student at University of Science and Technolog
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C029%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C034%20hrs%208%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,7 +31,7 @@ Windows                  1 hr 50 mins        ██░░░░░░░░░�
 ```
 
 
- Last Updated on 2024-12-07 Sat UTC
+ Last Updated on 2024-12-08 Sun UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
