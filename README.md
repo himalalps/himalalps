@@ -10,13 +10,13 @@ I'm now a senior Computer Science student at University of Science and Technolog
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C201%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C202%20hrs%2032%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   19 hrs 40 mins      ████████████████░░░░░░░░░   63.53 % 
+Python                   19 hrs 40 mins      ████████████████░░░░░░░░░   63.54 % 
 JSON                     6 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
 Markdown                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
@@ -31,7 +31,7 @@ Windows                  1 hr 33 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 2025-01-26 Sun UTC
+ Last Updated on 2025-01-27 Mon UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
