@@ -10,15 +10,15 @@ I'm now a senior Computer Science student at University of Science and Technolog
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C513%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C516%20hrs%2059%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 54 mins       ████████████████░░░░░░░░░   62.96 % 
-Bash                     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-YAML                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Python                   6 hrs 54 mins       ████████████████░░░░░░░░░   63.01 % 
+Bash                     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+YAML                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
@@ -30,7 +30,7 @@ Linux                    10 hrs 57 mins      ███████████�
 ```
 
 
- Last Updated on 2025-05-17 Sat UTC
+ Last Updated on 2025-05-18 Sun UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
