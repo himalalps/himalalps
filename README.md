@@ -16,20 +16,17 @@ I'm now a senior Computer Science student at University of Science and Technolog
 
 ```text
 💬 Programming Languages: 
-Markdown                 38 mins             █████████████████████░░░░   82.74 % 
-YAML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2025-07-06 Sun UTC
+ Last Updated on 2025-07-07 Mon UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
