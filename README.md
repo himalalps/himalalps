@@ -16,17 +16,17 @@ I'm now a senior Computer Science student at University of Science and Technolog
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   44 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      44 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2025-07-17 Thu UTC
+ Last Updated on 2025-07-18 Fri UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
