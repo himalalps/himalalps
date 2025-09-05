@@ -1,6 +1,6 @@
 ## Hey 👋  Glad to see you here!
 
-I'm now a senior Computer Science student at University of Science and Technology of China (USTC). I am glad to explore problems in CS domains as I have a lot to learn.
+I'm now a master student at Gaoling School of Artificial Intelligence, Renmin University of China (RUC). I am glad to explore problems in CS/AI domains as I have a lot to learn.
 
 ## My Stats  
 
