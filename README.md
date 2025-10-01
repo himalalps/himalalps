@@ -12,8 +12,21 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C550%20hrs%206%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 2025-09-30 Tue UTC
+```text
+💬 Programming Languages: 
+Markdown                 2 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  2 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 2025-10-01 Wed UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
