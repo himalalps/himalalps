@@ -16,25 +16,17 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 56 mins        ██████████████████░░░░░░░   72.17 % 
-Python                   42 mins             ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Other                    1 hr 53 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Word                     1 hr 53 mins        ██████████████████░░░░░░░   70.20 % 
-Trae                     43 mins             ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-Vim                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Word                     1 hr 53 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 53 mins        ██████████████████░░░░░░░   70.20 % 
-Linux                    43 mins             ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-Mac                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-02-16 Mon UTC
+ Last Updated on 2026-02-17 Tue UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
