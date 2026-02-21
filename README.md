@@ -16,17 +16,17 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 49 mins        █████████████████████████   100.00 % 
+Other                    9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Word                     1 hr 49 mins        █████████████████████████   100.00 % 
+Word                     9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-02-20 Fri UTC
+ Last Updated on 2026-02-21 Sat UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
