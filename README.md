@@ -16,24 +16,24 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 18 mins       ███████████░░░░░░░░░░░░░░   45.27 % 
-JSON                     2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Text                     1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Python                   5 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
+JSON                     2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Other                    2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Text                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-Trae                     10 hrs 29 mins      ██████████████████████░░░   89.57 % 
-VS Code                  1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Trae                     12 hrs 19 mins      ███████████████████████░░   91.09 % 
+VS Code                  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Linux                    10 hrs 9 mins       ██████████████████████░░░   86.73 % 
-Mac                      1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Linux                    11 hrs 59 mins      ██████████████████████░░░   88.64 % 
+Mac                      1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 
 
- Last Updated on 2026-03-03 Tue UTC
+ Last Updated on 2026-03-04 Wed UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
