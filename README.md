@@ -10,30 +10,30 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C688%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C689%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 39 mins       ████████████████████░░░░░   79.38 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Python                   4 hrs 55 mins       ██████████████████░░░░░░░   70.25 % 
+YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Trae                     5 hrs 5 mins        ██████████████████████░░░   86.78 % 
-Vim                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-OpenCode                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Trae                     6 hrs 14 mins       ██████████████████████░░░   88.96 % 
+Vim                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+OpenCode                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 
 💻 Operating System: 
-Linux                    5 hrs 5 mins        ██████████████████████░░░   86.78 % 
-Mac                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Linux                    6 hrs 14 mins       ██████████████████████░░░   88.96 % 
+Mac                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 ```
 
 
- Last Updated on 2026-03-11 Wed UTC
+ Last Updated on 2026-03-12 Thu UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
