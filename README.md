@@ -16,23 +16,24 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.05 % 
-Markdown                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-YAML                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-JavaScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Astro                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Python                   1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+YAML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+JavaScript               1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Astro                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 
 🔥 Editors: 
-Trae                     9 hrs 36 mins       ████████████████████████░   97.74 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Trae                     7 hrs 25 mins       ███████████████████████░░   92.32 % 
+VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Unknown Editor           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 💻 Operating System: 
-Linux                    9 hrs 36 mins       ████████████████████████░   97.74 % 
-WSL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Linux                    7 hrs 49 mins       ████████████████████████░   97.24 % 
+WSL                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 ```
 
 
- Last Updated on 2026-03-15 Sun UTC
+ Last Updated on 2026-03-16 Mon UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
