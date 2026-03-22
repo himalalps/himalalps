@@ -10,33 +10,33 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C705%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C711%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 58 mins       █████████████░░░░░░░░░░░░   50.32 % 
-Other                    4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Python                   8 hrs 30 mins       ████████████░░░░░░░░░░░░░   48.86 % 
+Other                    4 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-Trae                     9 hrs 30 mins       ███████████████░░░░░░░░░░   59.93 % 
-VS Code                  3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-PowerPoint               3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Trae                     9 hrs 30 mins       ██████████████░░░░░░░░░░░   54.52 % 
+VS Code                  4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+PowerPoint               3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Unknown Editor           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Linux                    12 hrs 7 mins       ███████████████████░░░░░░   76.45 % 
-Windows                  3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Mac                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Linux                    13 hrs 6 mins       ███████████████████░░░░░░   75.18 % 
+Windows                  3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Mac                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 ```
 
 
- Last Updated on 2026-03-21 Sat UTC
+ Last Updated on 2026-03-22 Sun UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
