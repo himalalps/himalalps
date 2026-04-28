@@ -10,29 +10,29 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C866%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.99 % 
-JSON                     8 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-Bash                     6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Typst                    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Markdown                 1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Python                   11 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   37.07 % 
+JSON                     8 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+Bash                     6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Markdown                 2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Other                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 28 mins      ██████████████████████░░░   87.97 % 
-Unknown Editor           3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+VS Code                  27 hrs 25 mins      █████████████████████░░░░   85.50 % 
+Unknown Editor           4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 
 💻 Operating System: 
-Linux                    27 hrs 38 mins      ██████████████████████░░░   88.50 % 
-Mac                      3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Linux                    29 hrs 23 mins      ███████████████████████░░   91.62 % 
+Mac                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 ```
 
 
- Last Updated on 2026-04-27 Mon UTC
+ Last Updated on 2026-04-28 Tue UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
