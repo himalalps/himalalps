@@ -10,10 +10,33 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C917%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C921%20hrs%208%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 5 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.89 % 
+Other                    3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+Python                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+CSS                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.38 % 
+Obsidian                 4 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+PowerPoint               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Unknown Editor           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Vim                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+
+💻 Operating System: 
+Windows                  6 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.17 % 
+Linux                    5 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.16 % 
+Mac                      2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
 
 
- Last Updated on 2026-05-13 Wed UTC
+ Last Updated on 2026-05-14 Thu UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
