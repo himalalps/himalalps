@@ -16,25 +16,19 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Typst                    1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-Other                    1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Markdown                 1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Bash                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Typst                    1 hr 38 mins        ████████████████████░░░░░   80.86 % 
+Other                    18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+TeX                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 1 min         ████████████████░░░░░░░░░   64.76 % 
-Claude Code              1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Codex CLI                31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-PowerPoint               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 53 mins       ████████████████░░░░░░░░░   62.69 % 
-Windows                  2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-06-11 Thu UTC
+ Last Updated on 2026-06-12 Fri UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
