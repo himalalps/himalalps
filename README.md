@@ -10,25 +10,25 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C051%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C053%20hrs%2041%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Typst                    4 hrs 21 mins       ███████████████████████░░   93.48 % 
-TeX                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Typst                    4 hrs 4 mins        ███████████████████████░░   93.07 % 
+TeX                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-06-14 Sun UTC
+ Last Updated on 2026-06-15 Mon UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
