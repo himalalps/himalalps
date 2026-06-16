@@ -16,19 +16,19 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Typst                    4 hrs 4 mins        ███████████████████████░░   93.07 % 
-TeX                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Typst                    2 hrs 55 mins       ███████████████████████░░   90.64 % 
+TeX                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-06-15 Mon UTC
+ Last Updated on 2026-06-16 Tue UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
