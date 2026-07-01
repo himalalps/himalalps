@@ -16,21 +16,21 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 mins              █████████████░░░░░░░░░░░░   51.63 % 
-Python                   2 mins              ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-JSON                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Markdown                 42 mins             ██████████████████████░░░   88.94 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  47 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-06-30 Tue UTC
+ Last Updated on 2026-07-01 Wed UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
