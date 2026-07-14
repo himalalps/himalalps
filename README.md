@@ -16,17 +16,19 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     13 mins             ████████████████░░░░░░░░░   62.57 % 
+JSON                     8 mins              █████████░░░░░░░░░░░░░░░░   37.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             ██████████████░░░░░░░░░░░   54.62 % 
+Codex CLI                9 mins              ███████████░░░░░░░░░░░░░░   45.38 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-07-13 Mon UTC
+ Last Updated on 2026-07-14 Tue UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
