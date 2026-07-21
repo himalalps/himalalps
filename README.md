@@ -16,23 +16,23 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 53 mins        ██████████████████░░░░░░░   73.55 % 
-TOML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-TeX                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-TSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Markdown                 1 hr 53 mins        █████████████████████░░░░   85.68 % 
+TeX                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+TSV                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 9 mins         ███████████░░░░░░░░░░░░░░   44.70 % 
-VS Code                  59 mins             ██████████░░░░░░░░░░░░░░░   38.38 % 
-Claude Code              26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Codex CLI                59 mins             ███████████░░░░░░░░░░░░░░   44.59 % 
+VS Code                  47 mins             █████████░░░░░░░░░░░░░░░░   35.70 % 
+Claude Code              26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-07-20 Mon UTC
+ Last Updated on 2026-07-21 Tue UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
