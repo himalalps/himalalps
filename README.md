@@ -10,30 +10,25 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C057%20hrs%2059%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 54 mins        █████████████████████░░░░   85.73 % 
-TeX                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-TSV                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Markdown                 58 mins             ████████████████████████░   96.19 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Codex CLI                59 mins             ███████████░░░░░░░░░░░░░░   44.44 % 
-VS Code                  47 mins             █████████░░░░░░░░░░░░░░░░   35.92 % 
-Claude Code              26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+VS Code                  59 mins             ████████████████████████░   97.72 % 
+Codex CLI                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   99.66 % 
-WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Windows                  59 mins             █████████████████████████   99.24 % 
+WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 
- Last Updated on 2026-07-23 Thu UTC
+ Last Updated on 2026-07-24 Fri UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
