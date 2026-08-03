@@ -12,53 +12,53 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C973%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2044%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 42 mins      █████████████░░░░░░░░░░░░   51.25 % 
-Python                   3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Other                    3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Text                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Markdown                 10 hrs 30 mins      ██████████████░░░░░░░░░░░   55.16 % 
+Other                    2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Python                   2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-Codex CLI                12 hrs 19 mins      ███████████████░░░░░░░░░░   58.96 % 
-VS Code                  8 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   41.04 % 
+Codex CLI                10 hrs 50 mins      ██████████████░░░░░░░░░░░   56.97 % 
+VS Code                  8 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
 
 💻 Operating System: 
-WSL                      12 hrs 35 mins      ███████████████░░░░░░░░░░   60.22 % 
-Windows                  8 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.78 % 
+WSL                      11 hrs 59 mins      ████████████████░░░░░░░░░   63.03 % 
+Windows                  7 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 18 mins (82.85%)
+⏱ AI Coding Time: 15 hrs 37 mins (82.09%)
 
-✍️ 4,981 lines written by AI, 3,367 lines written by hand (59.67% AI-written)
+✍️ 3,452 lines written by AI, 3,331 lines written by hand (50.89% AI-written)
 
-🔤 188,022,288 Input Tokens, 991,245 Output Tokens
+🔤 160,410,536 Input Tokens, 798,755 Output Tokens
 
-💵 $961.45 Estimated AI Cost This Week
+💵 $809.89 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 374 AI Prompts
+🧠 48 AI Sessions, 338 AI Prompts
 
-GPT                      5,045 lines         █████████████████████████   100.00 % 
+GPT                      3,516 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.67% of written lines came from AI
-📚 Verbose Prompter — average 2,976 characters per prompt
+⚖️ Balanced with AI — 50.89% of written lines came from AI
+📚 Verbose Prompter — average 3,123 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 41.75% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 50.29% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-08-02 Sun UTC
+ Last Updated on 2026-08-03 Mon UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
