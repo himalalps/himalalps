@@ -33,30 +33,6 @@ WSL                      11 hrs 59 mins      ███████████�
 Windows                  7 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.97 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 15 hrs 37 mins (82.09%)
-
-✍️ 3,452 lines written by AI, 3,331 lines written by hand (50.89% AI-written)
-
-🔤 160,410,536 Input Tokens, 798,755 Output Tokens
-
-💵 $809.89 Estimated AI Cost This Week
-
-🧠 48 AI Sessions, 338 AI Prompts
-
-GPT                      3,516 lines         █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.89% of written lines came from AI
-📚 Verbose Prompter — average 3,123 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 50.29% of changed lines were hand-edited
-```
-
 
  Last Updated on 2026-08-03 Mon UTC
 <!--END_SECTION:waka-->
