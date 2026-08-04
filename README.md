@@ -18,23 +18,23 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 30 mins      ██████████████░░░░░░░░░░░   55.16 % 
-Other                    2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Python                   2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Markdown                 3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   40.25 % 
+Other                    2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Python                   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Text                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 
 🔥 Editors: 
-Codex CLI                10 hrs 50 mins      ██████████████░░░░░░░░░░░   56.97 % 
-VS Code                  8 hrs 11 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
+Codex CLI                5 hrs 40 mins       ███████████████░░░░░░░░░░   60.56 % 
+VS Code                  3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.44 % 
 
 💻 Operating System: 
-WSL                      11 hrs 59 mins      ████████████████░░░░░░░░░   63.03 % 
-Windows                  7 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   36.97 % 
+WSL                      6 hrs 57 mins       ███████████████████░░░░░░   74.19 % 
+Windows                  2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
 ```
 
 
- Last Updated on 2026-08-03 Mon UTC
+ Last Updated on 2026-08-04 Tue UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
