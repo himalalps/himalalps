@@ -10,31 +10,27 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C976%20hrs-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%206%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.01 % 
-Python                   2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Other                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Text                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Markdown                 6 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.13 % 
+Python                   5 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.87 % 
+Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Astro                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-Codex CLI                5 hrs 41 mins       ████████████████░░░░░░░░░   65.81 % 
-VS Code                  2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.19 % 
+Codex CLI                8 hrs 47 mins       ████████████████░░░░░░░░░   65.43 % 
+VS Code                  4 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.57 % 
 
 💻 Operating System: 
-WSL                      6 hrs 59 mins       ████████████████████░░░░░   80.92 % 
-Windows                  1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+WSL                      11 hrs 47 mins      ██████████████████████░░░   87.70 % 
+Windows                  1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 ```
 
 
- Last Updated on 2026-08-06 Thu UTC
+ Last Updated on 2026-08-07 Fri UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
