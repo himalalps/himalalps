@@ -10,31 +10,31 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C014%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C014%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2037%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    9 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
-Markdown                 7 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.78 % 
-JSON                     2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Python                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Other                    9 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   40.75 % 
+Markdown                 8 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.08 % 
+JSON                     2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Python                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-Codex CLI                19 hrs 48 mins      ██████████████████████░░░   88.94 % 
-VS Code                  2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Codex CLI                19 hrs 36 mins      ██████████████████████░░░   87.78 % 
+VS Code                  2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 
 💻 Operating System: 
-WSL                      22 hrs 13 mins      █████████████████████████   99.79 % 
-Windows                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+WSL                      22 hrs 19 mins      █████████████████████████   99.98 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
- Last Updated on 2026-08-20 Thu UTC
+ Last Updated on 2026-08-21 Fri UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
