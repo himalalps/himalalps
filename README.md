@@ -10,33 +10,32 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C029%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C034%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-246%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 hrs 49 mins      █████████████████░░░░░░░░   67.18 % 
-Other                    1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-CSS                      1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Markdown                 13 hrs 18 mins      ███████████████████░░░░░░   74.08 % 
+Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+CSS                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+BibTeX                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 28 mins      ████████████████████░░░░░   80.09 % 
-Codex CLI                1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Claude Code              1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-PowerPoint               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+VS Code                  15 hrs 6 mins       █████████████████████░░░░   84.16 % 
+Codex CLI                2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+PowerPoint               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 💻 Operating System: 
-WSL                      15 hrs 44 mins      ███████████████████░░░░░░   76.52 % 
-Windows                  4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+WSL                      17 hrs 3 mins       ████████████████████████░   94.97 % 
+Windows                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 ```
 
 
- Last Updated on 2026-09-02 Wed UTC
+ Last Updated on 2026-09-03 Thu UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
