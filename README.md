@@ -18,23 +18,25 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.80 % 
-Other                    1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   34.55 % 
-Python                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-PowerShell               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Markdown                 1 hr 37 mins        █████████████░░░░░░░░░░░░   52.46 % 
+Other                    1 hr                ████████░░░░░░░░░░░░░░░░░   32.41 % 
+Astro                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   38.80 % 
-PowerPoint               1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   32.22 % 
-VS Code                  1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+Codex Vscode             1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   39.11 % 
+PowerPoint               55 mins             ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+VS Code                  38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Codex CLI                18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 
 💻 Operating System: 
-Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 45 mins       ██████████████████████░░░   88.93 % 
+WSL                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 ```
 
 
- Last Updated on 2026-09-23 Wed UTC
+ Last Updated on 2026-09-24 Thu UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
