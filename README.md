@@ -18,25 +18,25 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Other                    48 mins             ██████████░░░░░░░░░░░░░░░   40.37 % 
-Markdown                 44 mins             █████████░░░░░░░░░░░░░░░░   37.26 % 
-Astro                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Other                    1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   40.91 % 
+JSON                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+Markdown                 32 mins             █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Astro                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-PowerPoint               43 mins             █████████░░░░░░░░░░░░░░░░   36.44 % 
-VS Code                  29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-Codex Vscode             27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-Codex CLI                18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Codex Vscode             1 hr 40 mins        ████████████████░░░░░░░░░   64.02 % 
+PowerPoint               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Codex CLI                18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+VS Code                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████░░░░   82.75 % 
-WSL                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Windows                  2 hrs 15 mins       ██████████████████████░░░   86.83 % 
+WSL                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
 ```
 
 
- Last Updated on 2026-09-26 Sat UTC
+ Last Updated on 2026-09-27 Sun UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
