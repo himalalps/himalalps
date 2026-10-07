@@ -18,22 +18,21 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Markdown                 20 mins             ███████████████░░░░░░░░░░   59.48 % 
-Other                    12 mins             █████████░░░░░░░░░░░░░░░░   37.30 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Markdown                 20 mins             ███████████████░░░░░░░░░░   61.46 % 
+Other                    12 mins             ██████████░░░░░░░░░░░░░░░   38.54 % 
 
 🔥 Editors: 
-Codex Vscode             18 mins             ██████████████░░░░░░░░░░░   54.01 % 
-Word                     12 mins             █████████░░░░░░░░░░░░░░░░   37.14 % 
-VS Code                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Codex Vscode             18 mins             █████████████░░░░░░░░░░░░   53.99 % 
+Word                     12 mins             ██████████░░░░░░░░░░░░░░░   38.38 % 
+VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 
 💻 Operating System: 
-WSL                      21 mins             ████████████████░░░░░░░░░   62.70 % 
-Windows                  12 mins             █████████░░░░░░░░░░░░░░░░   37.30 % 
+WSL                      20 mins             ███████████████░░░░░░░░░░   61.46 % 
+Windows                  12 mins             ██████████░░░░░░░░░░░░░░░   38.54 % 
 ```
 
 
- Last Updated on 2026-10-06 Tue UTC
+ Last Updated on 2026-10-07 Wed UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
