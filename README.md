@@ -10,30 +10,30 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C151%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C157%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-371%20hrs%2033%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   16 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   37.46 % 
-Markdown                 16 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   36.13 % 
-Other                    3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-HTML                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-YAML                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Markdown                 15 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   37.01 % 
+Python                   14 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   35.16 % 
+Other                    4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+JSON                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+YAML                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 31 mins      ██████████████░░░░░░░░░░░   56.26 % 
-OMP                      19 hrs 50 mins      ███████████░░░░░░░░░░░░░░   43.74 % 
+VS Code                  23 hrs 22 mins      ██████████████░░░░░░░░░░░   56.24 % 
+OMP                      18 hrs 10 mins      ███████████░░░░░░░░░░░░░░   43.76 % 
 
 💻 Operating System: 
-Linux                    45 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    41 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-10-30 Fri UTC
+ Last Updated on 2026-10-31 Sat UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
