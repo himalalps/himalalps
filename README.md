@@ -10,30 +10,30 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C160%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C163%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-376%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-380%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 15 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   37.05 % 
-Python                   15 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   36.33 % 
-Other                    4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-JSON                     2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-YAML                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Python                   16 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   36.48 % 
+Markdown                 16 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   35.93 % 
+Other                    5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+JSON                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+YAML                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 30 mins      ██████████████░░░░░░░░░░░   57.67 % 
-OMP                      17 hrs 59 mins      ███████████░░░░░░░░░░░░░░   42.33 % 
+VS Code                  25 hrs 6 mins       ██████████████░░░░░░░░░░░   55.21 % 
+OMP                      20 hrs 22 mins      ███████████░░░░░░░░░░░░░░   44.79 % 
 
 💻 Operating System: 
-Linux                    42 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    45 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026-11-01 Sun UTC
+ Last Updated on 2026-11-02 Mon UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
