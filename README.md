@@ -18,24 +18,24 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 
 ```text
 💬 Programming Languages: 
-Python                   10 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-Markdown                 10 hrs 16 mins      ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-Other                    7 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-JSON                     3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-YAML                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Markdown                 10 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+Python                   10 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Other                    5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Text                     3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+YAML                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 26 mins      █████████████████░░░░░░░░   69.98 % 
-OMP                      12 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-PowerPoint               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+VS Code                  27 hrs 1 min        ██████████████████░░░░░░░   70.41 % 
+OMP                      11 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+PowerPoint               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 💻 Operating System: 
-Linux                    41 hrs 56 mins      █████████████████████████   99.65 % 
-Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Linux                    38 hrs 13 mins      █████████████████████████   99.62 % 
+Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
 
- Last Updated on 2026-11-16 Mon UTC
+ Last Updated on 2026-11-17 Tue UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
