@@ -10,32 +10,33 @@ I'm now a master student at Gaoling School of Artificial Intelligence, Renmin Un
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C294%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C304%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-536%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-547%20hrs%2049%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    14 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-Markdown                 14 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-Python                   12 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-XML                      2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-YAML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Markdown                 16 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Other                    15 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Python                   15 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+XML                      3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Bash                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-VS Code                  42 hrs 8 mins       █████████████████████░░░░   84.85 % 
-OMP                      4 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-PowerPoint               2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+VS Code                  48 hrs 45 mins      █████████████████████░░░░   85.70 % 
+OMP                      5 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+PowerPoint               2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Antigravity CLI          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Linux                    47 hrs 1 min        ████████████████████████░   94.69 % 
-Windows                  2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Linux                    54 hrs 15 mins      ████████████████████████░   95.37 % 
+Windows                  2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 ```
 
 
- Last Updated on 2026-11-26 Thu UTC
+ Last Updated on 2026-11-27 Fri UTC
 <!--END_SECTION:waka-->
 
 ## Languages and Tools
